@@ -52,6 +52,12 @@ li {
 }
 
 /*Contenido*/
+.bg-hero{
+  width: 400px;
+  transform: rotate(-40deg);
+  
+}
+
 .Anuncio {
   display: flex;
   background-color: #1D2C59;
